@@ -1,5 +1,8 @@
 # Ecommerce
 
+![Screen Shot 2023-11-28 at 3 58 37 PM](https://github.com/hailatGH/ecommerce/assets/99496150/c98eb7e9-e980-49d7-8966-18917aa686ce)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.19.
 
 ## Development server
